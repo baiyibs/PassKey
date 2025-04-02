@@ -1,0 +1,6 @@
+name: PassKey
+version: '1.0.0'
+main: com.baiyi.passkey.PassKey
+api-version: '1.21'
+load: STARTUP
+authors: [ BAIYI ]
