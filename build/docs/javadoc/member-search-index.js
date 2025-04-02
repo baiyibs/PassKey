@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"com.baiyi.passkey","c":"PassKey","l":"onDisable()"},{"p":"com.baiyi.passkey","c":"PassKey","l":"onEnable()"},{"p":"com.baiyi.passkey","c":"PassKey","l":"PassKey()","u":"%3Cinit%3E()"}];updateSearchResults();

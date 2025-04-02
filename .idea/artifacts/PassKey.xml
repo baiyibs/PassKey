@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PassKey">
+    <output-path>$PROJECT_DIR$/out/artifacts/PassKey</output-path>
+    <root id="archive" name="PassKey.jar" />
+  </artifact>
+</component>
